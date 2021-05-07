@@ -1,2 +1,2 @@
 # chavaMunoz
-personalProjects just for fun
+personalProjects
